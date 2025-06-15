@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.container {
+  width: 1440px;
+}
